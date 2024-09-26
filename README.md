@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_perfect_sanskar/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="SANSKAR CHAUDHARI">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_perfect-sanskar&size=square" alt="SANSKAR CHAUDHARI">
       </a>
     </td>
     <td align="center">
@@ -32,7 +32,7 @@
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
+  <a href="https://github.com/SANSKAR" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="chaudharisanskar">
   </a>
 </td>
