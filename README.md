@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="[https://www.linkedin.com/in/sanskar-chaudhari-122047303]utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <a href="[https://www.linkedin.com/in/sanskar-chaudhari-122047303] target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
       </a>
     </td>
