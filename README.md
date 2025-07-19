@@ -126,9 +126,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SANSKAR's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/SANSKAR?theme=dark" alt="SANSKAR's GitHub Stats">
 </details>
 
 <br>
@@ -136,7 +136,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 ### SANSKAR/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @SANSKAR/SANSKAR](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
 
 <!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
 
