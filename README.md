@@ -79,34 +79,34 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=SANSKAR&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SANSKAR's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANSKAR&theme=highcontrast&hide_border=true" alt="SANSKAR's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SANSKAR/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANSKAR&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SANSKAR/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANSKAR &repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SANSKAR/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANSKAR&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SANSKAR/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANSKAR&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -115,7 +115,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 ### GitHub Contribution Chart
 <a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="SANSKAR's GitHub Contribution Chart">
 </a>
 
 
