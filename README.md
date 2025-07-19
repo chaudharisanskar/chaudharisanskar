@@ -133,7 +133,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
-### RAFIKSHA/README.md activity
+### SANSKAR/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 <!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANSKAR&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -169,7 +169,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://https://www.instagram.com/chaudharisanskar?igsh=NnFpbWRyYnI2andm/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -634,7 +634,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
     <td align="center">
   <a href="https://wa.me/8308367848" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8308367848&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8308367848&size=square" alt="India-+91-8308367848" style="margin: 10px;">
   </a>
 </td>
 
